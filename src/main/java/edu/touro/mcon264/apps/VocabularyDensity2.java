@@ -8,9 +8,12 @@
 //---------------------------------------------------------------------------
 package edu.touro.mcon264.apps;
 
+import edu.touro.mcon264.apps.collections.CollectionInterface;
+import edu.touro.mcon264.apps.collections.SortedArrayCollection;
+
 import java.io.*;
 import java.util.*;
-import ch05.collections.*;
+
 
 public class VocabularyDensity2
 {
